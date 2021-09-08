@@ -34,7 +34,7 @@ Fave.init(
     //     key: "title",
     //   },
     // },
-    
+
     /* poster_path: {
       type: DataTypes.STRING,
       allowNull: false
