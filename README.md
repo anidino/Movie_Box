@@ -1,42 +1,54 @@
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-
-<img width="1424" alt="Screen Shot 2021-09-05 at 11 07 50 PM" src="https://user-images.githubusercontent.com/82895658/132155464-c06adcd9-d721-44d7-9542-34ced3668fd0.png">
-
-<img width="1437" alt="Screen Shot 2021-09-05 at 11 08 25 PM" src="https://user-images.githubusercontent.com/82895658/132155472-02996f89-9828-4610-bc87-72145b4dd558.png">  
+# Movie Box
 
 
+  * [Description](#description)
+  * [Made With](#made-with)
+  * [Questions](#questions)
+  * [License](#license)
 
-
- # Movie Box
-
-
-  -[Description](#description)
-  -[Made With](#made&nbspwith)
-  -[Questions](#questions)
-  -[License](#license)
 
   ## Description  
-  Movie Box is a fullstack movie database application that allows users to sort, search, and save the movies in our databse. Users can also read each other's reviews and leave their own.   
+Movie Box is a fullstack movie database application that allows users to sort, search, and save the movies in our databse. Users can also read each other's reviews and leave their own.   
 
-  visit the site: https://fierce-plateau-48530.herokuapp.com/movies/login     
+![movieBoxScreenshot](https://user-images.githubusercontent.com/84213096/132894478-1c7bff23-5f55-4efb-8e85-3e7602292eb7.jpg)
+![anidino's favs](https://user-images.githubusercontent.com/84213096/132894692-f5302803-d351-40d6-9aa5-48f4dcc60b2e.jpg)
+
+
+
+  [Visit the Deployed Application](https://fierce-plateau-48530.herokuapp.com/movies/login)     
   
   
   ## Made With
-  javascript, express, node, mysql2, sequelize, dotenv, bcrypt, lodash, html, css, bootsrap, handlebars
+  * Javascript 
+  * Node
+  * Express
+  * MySQL2
+  * Sequelize
+  * Dotenv
+  * Bcrypt
+  * Lodash
+  * HTML
+  * CSS
+  * Bootstrap
+  * Handlebars
+
   
 
   ## Questions?
-  Check out the team:  
-  Ben Gallagher [Github](https://github.com/Bgallag5)
+  * Check out the team:  
+  * Ani Carr [Github](https://github.com/anidino)
+  ...or email me: ani.elaina.carr@gmail.com 
+  * Ben Gallagher [Github](https://github.com/Bgallag5)
   ...or email me: bgallag5@gmail.com  
-  Ani Carr [Github](https://github.com/anidino)
-  ...or email me: ani.elaina.carr@gmail.com   
-  Raevin Dunson [Github](https://github.com/raevindunson)
+  * Raevin Dunson [Github](https://github.com/raevindunson)
   ...or email me: raevin.dunson98@gmail.com
+  * Thandiwe Kapakasa [Github](https://github.com/thandiek)
+  ...or email me: tkapakasa@yahoo.com 
 
 
-  ## License  
-  Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+## License  
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 
