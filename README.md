@@ -12,12 +12,15 @@
   ## Description  
 Movie Box is a fullstack movie database application that allows users to sort, search, and save the movies in our databse. Users can also read each other's reviews and leave their own.   
 
-![movieBoxScreenshot](https://user-images.githubusercontent.com/84213096/132894478-1c7bff23-5f55-4efb-8e85-3e7602292eb7.jpg)
-![anidino's favs](https://user-images.githubusercontent.com/84213096/132894692-f5302803-d351-40d6-9aa5-48f4dcc60b2e.jpg)
+![infiniteSands](https://user-images.githubusercontent.com/84213096/133504538-adc8a804-9672-4c3f-b8fd-bc643a6ae8e4.jpg)
+![infiniteSandsDashboard](https://user-images.githubusercontent.com/84213096/133504816-21386c84-b472-4399-93d2-eae3e6c13dee.jpg)
 
 
 
-  [Visit the Deployed Application](https://fierce-plateau-48530.herokuapp.com/movies/login)     
+
+
+
+  [Visit the Deployed Application](https://infinite-sands-12917.herokuapp.com/movies/login)     
   
   
   ## Made With
